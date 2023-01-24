@@ -4,7 +4,7 @@
 
 Я занимаюсь тестированием usability мобильного и веб приложений для сотрудников операционного блока на уровне приемочного тестирования
 
-### Инструменты и языки
+## Инструменты и языки
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
 ![JMeter](https://img.shields.io/badge/-JMeter-red?style=for-the-badge&logo=apachejmeter)
 ![DevTools](https://img.shields.io/badge/-DevTools-lightgrey?style=for-the-badge&logo=devtools)
@@ -24,11 +24,11 @@
 ![Bitrix24](https://img.shields.io/badge/-bitrix24-lightblue?style=for-the-badge&logo=bitrix24)
 ![powerbi](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=PowerBI)
 
+## Тестовая документация
 
 
 
 
-
-### Контакты
+## Контакты
 +7 919 765 79 61
 feverx@inbox.ru
