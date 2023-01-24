@@ -18,5 +18,9 @@ videos
 ![Github](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
 ![DevTools](https://img.shields.io/badge/-photoshop-darkred?style=for-the-badge&logo=photoshop)
 ![SQL](https://img.shields.io/badge/-SQL-darkgreen?style=for-the-badge&logo=SQL)
+![Spring](https://img.shields.io/badge/-Spring-lightgrey?style=for-the-badge&logo=Spring)
+![Agile](https://img.shields.io/badge/-Agile-yellow?style=for-the-badge&logo=Agile)
+![1c](https://img.shields.io/badge/-1c-green?style=for-the-badge&logo=1c)
+
 
 follow me
