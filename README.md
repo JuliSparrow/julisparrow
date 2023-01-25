@@ -27,7 +27,7 @@
 ## Тестовая документация
 
 - [Checklists](https://github.com/JuliSparrow/Checklists.git)
-
+- [Test-Cases](https://github.com/JuliSparrow/Test-Cases.git)
 
 ## Контакты
 +7 919 765 79 61
