@@ -21,13 +21,16 @@
 ![Spring](https://img.shields.io/badge/-Spring-grey?style=for-the-badge&logo=Spring)
 ![Agile](https://img.shields.io/badge/-Agile-yellow?style=for-the-badge&logo=Agile)
 ![1c](https://img.shields.io/badge/-1c-green?style=for-the-badge&logo=1c)
-![Bitrix24](https://img.shields.io/badge/-bitrix24-lightblue?style=for-the-badge&logo=bitrix24)
+![Bitrix24](https://img.shields.io/badge/-bitrix24-blue?style=for-the-badge&logo=bitrix24)
 ![powerbi](https://img.shields.io/badge/-PowerBI-yellow?style=for-the-badge&logo=PowerBI)
 
 ## Тестовая документация
 
 - [Checklists](https://github.com/JuliSparrow/Checklists.git)
 - [Test-Cases](https://github.com/JuliSparrow/Test-Cases.git)
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collections]()
 
 ## Контакты
 +7 919 765 79 61
