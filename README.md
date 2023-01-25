@@ -35,5 +35,7 @@
 ## Контакты
 
 +7 (919) 765 79 61  
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-grey?style=for-the-badge&logo=whatsapp)
+![telegram](https://img.shields.io/badge/-telegram-grey?style=for-the-badge&logo=telegram)
 
-feverx@inbox.ru
+e-mail: feverx@inbox.ru
