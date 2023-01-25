@@ -28,10 +28,11 @@
 
 - [Checklists](https://github.com/JuliSparrow/Checklists.git)
 - [Test-Cases](https://github.com/JuliSparrow/Test-Cases.git)
-- [Bug-Reports]()
+- [Bug-Reports](https://github.com/JuliSparrow/Bug-Reports.git)
 - [SQL Queries]()
 - [Postman Collections]()
 
 ## Контакты
-+7 919 765 79 61
++7 919 765 79 61  
+
 feverx@inbox.ru
