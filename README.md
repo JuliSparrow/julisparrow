@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-Я занимаюсь тестированием usability мобильного и веб приложений для сотрудников операционного блока на уровне приемочного тестирования
+Я занимаюсь тестированием usability мобильного и веб приложений для сотрудников операционного блока на уровне приемочного тестирования. Полное резюме можно посмотреть [здесь](https://docs.google.com/document/d/1Sxwhl_MV1TRhseoPGFTmBlV_vxdfuLOM/edit?usp=sharing&ouid=112121790913986349142&rtpof=true&sd=true)
 
 ## Инструменты и языки
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
