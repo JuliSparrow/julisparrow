@@ -30,9 +30,10 @@
 - [Test-Cases](https://github.com/JuliSparrow/Test-Cases.git)
 - [Bug-Reports](https://github.com/JuliSparrow/Bug-Reports.git)
 - [SQL Queries](https://github.com/JuliSparrow/SQL-queries.git)
-- [Postman Collections]()
+- [Postman Collections](https://github.com/JuliSparrow/Postman-collections.git)
 
 ## Контакты
-+7 919 765 79 61  
+
++7 (919) 765 79 61  
 
 feverx@inbox.ru
