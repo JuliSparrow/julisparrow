@@ -29,7 +29,7 @@
 - [Checklists](https://github.com/JuliSparrow/Checklists.git)
 - [Test-Cases](https://github.com/JuliSparrow/Test-Cases.git)
 - [Bug-Reports](https://github.com/JuliSparrow/Bug-Reports.git)
-- [SQL Queries]()
+- [SQL Queries](https://github.com/JuliSparrow/SQL-queries.git)
 - [Postman Collections]()
 
 ## Контакты
