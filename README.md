@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-# Я занимаюсь тестированием мобильного и веб приложения для сотрудников операционного блока дарк сторов FoodTech компании. Полное резюме можно посмотреть [здесь](https://docs.google.com/document/d/1Sxwhl_MV1TRhseoPGFTmBlV_vxdfuLOM/edit?usp=sharing&ouid=112121790913986349142&rtpof=true&sd=true)
+### Я занимаюсь тестированием мобильного и веб приложения для сотрудников операционного блока дарк сторов FoodTech компании. Полное резюме можно посмотреть [здесь](https://docs.google.com/document/d/1Sxwhl_MV1TRhseoPGFTmBlV_vxdfuLOM/edit?usp=sharing&ouid=112121790913986349142&rtpof=true&sd=true)
 
 ## Инструменты и языки
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
