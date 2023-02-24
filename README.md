@@ -18,7 +18,7 @@
 ![Github](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
 ![DevTools](https://img.shields.io/badge/-photoshop-darkred?style=for-the-badge&logo=photoshop)
 ![SQL](https://img.shields.io/badge/-SQL-darkgreen?style=for-the-badge&logo=SQL)
-![Spring](https://img.shields.io/badge/-Spring-grey?style=for-the-badge&logo=Spring)
+![Maven](https://img.shields.io/badge/-Maven-grey?style=for-the-badge&logo=Maven)
 ![Agile](https://img.shields.io/badge/-Agile-yellow?style=for-the-badge&logo=Agile)
 ![1c](https://img.shields.io/badge/-1c-green?style=for-the-badge&logo=1c)
 ![Bitrix24](https://img.shields.io/badge/-bitrix24-blue?style=for-the-badge&logo=bitrix24)
